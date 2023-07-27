@@ -3,6 +3,7 @@ de hoy de hoy
 
 de hor otro
 
+-apartir de aquí
 quiero comenzar una nueva versión a partir de aqué
 
 esto ya no aparece en las anteriores
@@ -10,3 +11,5 @@ esto ya no aparece en las anteriores
 haciendo mas cambios
 jeje
 ya voy entendiendo mas, esto solo se puede ver en la versión del ramab
+
+-hasta acá
